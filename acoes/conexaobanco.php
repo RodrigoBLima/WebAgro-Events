@@ -1,10 +1,10 @@
 <?php
 
 
-$servername = "localhost";
+$servername = " mysql995.umbler.com";
 $database = "webagro";
-$username = "root";
-$password = "";
+$username = "rodrigouser";
+$password = "rootroot";
 
 header('Content-Type: text/html; charset=utf-8');
 
