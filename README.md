@@ -31,10 +31,13 @@ What things you need to install the software?
 
 Step one, create a new event
 ![Imagem relacionada com a criação de um evento](img/1.png)
+
 Step two, view event created
 ![Imagem relacionada com a visualização de um evento criado](img/2.png) 
+
 Step three, edit one event
 ![Imagem relacionada a edição de um evento](img/3.png)
+
 Step four, view te summary of events
 ![Imagem relacionada a listagem do sumário de eventos](img/4.png)
 
