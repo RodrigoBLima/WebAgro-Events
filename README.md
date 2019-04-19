@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ### Prerequisites
 
@@ -30,13 +30,13 @@ What things you need to install the software?
 ## Running the tests
 
 Step one, create a new event
-
+![Imagem relacionada com a criação de um evento](img/1.png)
 Step two, view event created
-
+![Imagem relacionada com a visualização de um evento criado](img/2.png) 
 Step three, edit one event
-
+![Imagem relacionada a edição de um evento](img/3.png)
 Step four, view te summary of events
-    
+![Imagem relacionada a listagem do sumário de eventos](img/4.png)
 
 ## Built With
 
@@ -44,7 +44,7 @@ Step four, view te summary of events
 * [Apache](https://www.apache.org/) - Dependency Management
 
 ## Versioning
-
+ 
 For the versions available, see the [My repository](https://github.com/RodrigoBLima). 
 
 
