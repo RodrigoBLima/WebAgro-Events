@@ -29,15 +29,19 @@ What things you need to install the software?
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Step one, create a new event
 
+Step two, view event created
 
+Step three, edit one event
+
+Step four, view te summary of events
+    
 
 ## Built With
 
 * [Materialize](https://materializecss.com/getting-started.html) - The web framework used
 * [Apache](https://www.apache.org/) - Dependency Management
-* [Server] (https://www.apachefriends.org/pt_br/index.html) - Localhost
 
 ## Versioning
 
