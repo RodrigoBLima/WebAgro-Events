@@ -21,7 +21,7 @@ What things you need to install the software?
 
 ```
 * Clone this repository - (git@github.com:RodrigoBLima/WebAgro-Events.git)
-* Execute this repository in Heroku - (Link Heroku)
+* Execute this repository in Umbler - (http://webagrotec-com.umbler.net/)
 * Download the .zip in - (https://github.com/RodrigoBLima/WebAgro-Events/tree/49508017fd78928a0dfd3237b074a0dc391cf56f)
 
 ```
