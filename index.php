@@ -17,7 +17,7 @@ include_once 'acoes/conexaobanco.php';
         <!-- formulario para cadastro do evento ocorrido -->
         <form action="acoes/criar.php" method="POST">
             <div class="input-field col s12">
-                <input type="text" name="cidade"  class="validate" required="" aria-required="true">
+                <input type="text" name="cidade" pattern="^[( )a-zA-Z]+$"  class="validate" required="" aria-required="true">
                 <label for="cidade" data-error="wrong" data-success="right"> Cidade</label>
             </div>
             <div class="input-field col s12">           

@@ -10,7 +10,7 @@ $conn = mysqli_connect($servername, $username, $password, $database);
 
 
 //adicionando o que vem do post nas variaveis
-$cidade = $_POST['cidade'];
+$cidade = $_POST['cidade'] =  preg_replace('/[^[:alpha:]_]/', '',$_POST['cidade']);
 $estado = $_POST['estado'];
 $dataa  = $_POST['dataa'];
 

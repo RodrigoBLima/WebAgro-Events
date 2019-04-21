@@ -28,7 +28,7 @@ endif;
         <!-- formulario para cadastro do evento ocorrido -->
         <form action="acoes/atualiza.php" method="POST">
             <div class="input-field col s12">
-                <input type="hidden" name="id" value="<?php echo $dados['id']; ?>">
+                <input type="hidden" name="id" pattern="^[( )a-zA-Z]+$" value="<?php echo $dados['id']; ?>">
                 <input type="text" name="cidade" value="<?php echo $dados['cidade']; ?>">
                 <label for="cidade">Cidade</label>
             </div>
