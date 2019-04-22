@@ -3,7 +3,7 @@
 include_once "layout/mensagem.php";
 
 //fazendo a requisição do cabechalho html
-require_once 'layout/cabecalho.php';
+require_once 'layout/cabecalho.html';
 
 //chamando conexao com banco
 include_once 'acoes/conexaobanco.php';
@@ -81,7 +81,7 @@ endif;
 
 <?php
 //fazendo a requisição do rodapé do meu projeto
-@require_once 'layout/rodape.php';
+@require_once 'layout/rodape.html';
 ?>
 
 

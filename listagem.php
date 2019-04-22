@@ -3,7 +3,7 @@
 include_once "layout/mensagem.php";
 
 //fazendo a requisição do cabechalho html
-@require_once 'layout/cabecalho.php';
+@require_once 'layout/cabecalho.html';
 
 //fazendo requisicao do banco de dados
 require_once 'acoes/conexaobanco.php';
@@ -65,5 +65,5 @@ $conn = mysqli_connect($servername, $username, $password, $database);
     
 <?php
 //fazendo a requisição do rodapé do meu projeto
-@require_once 'layout/rodape.php';
+@require_once 'layout/rodape.html';
 ?> 
