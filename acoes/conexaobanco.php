@@ -1,7 +1,7 @@
 <?php
 
 
-$servername = " mysql995.umbler.com";
+$servername = "mysql995.umbler.com";
 $database = "webagro";
 $username = "rodrigouser";
 $password = "rootroot";
