@@ -23,6 +23,7 @@ $conn = mysqli_connect($servername, $username, $password, $database);
                         <th>Estado</th>
                         <th>Data</th>
                         <th>Editar</th>
+                        <th>Excluir</th> 
                     </tr>
                 </thead>
 
@@ -44,6 +45,8 @@ $conn = mysqli_connect($servername, $username, $password, $database);
                         <td><?php echo $dados['estado']; ?></td>
                         <td><?php echo $dados['dataa']; ?></td>
                         <td><a href="editar.php?id=<?php echo $dados['id']; ?>" class="btn-floating orange"><i class="material-icons">edit</i></td>
+                        
+                        
                     </tr>
                     <?php 
                         endwhile;
