@@ -1,10 +1,10 @@
 
      //cript para o preloader
      document.addEventListener("DOMContentLoaded", function(){
-        $('.preloader-background').delay(350).fadeOut('slow');
+        $('.preloader-background').delay(200).fadeOut('slow');
         
         $('.preloader-wrapper')
-            .delay(350)
+            .delay(200)
             .fadeOut();
     });
 
