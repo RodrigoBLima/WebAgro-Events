@@ -1,4 +1,17 @@
-
+  /* preloader*/
+  .preloader-background {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #eee;
+    
+    position: fixed;
+    z-index: 100;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;	
+  }
 
   /* valid color */
   .input-field input[type=text].valid {
