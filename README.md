@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
@@ -61,7 +61,7 @@ What things you need to install the software?
 │   │           │   └── master
 │   │           └── origin
 │   │               └── master
-|   │ 
+|   │
 │   ├── packed-refs
 │   └── refs
 │       ├── heads
@@ -105,16 +105,23 @@ What things you need to install the software?
 
 ## Running the tests
 
-    Step one, create a new event
+    Step One, login in the plataform
+    ```
+    Email : adminwebagro2019
+    Password : webagrotech@gmail.com"
+
+    ```
+
+    Step two, create a new event
 ![Imagem relacionada com a criação de um evento](img/1.png)
 
-    Step two, view event created
-![Imagem relacionada com a visualização de um evento criado](img/2.png) 
+    Step three, view event created
+![Imagem relacionada com a visualização de um evento criado](img/2.png)
 
-    Step three, edit one event
+    Step four, edit one event
 ![Imagem relacionada a edição de um evento](img/3.png)
 
-    Step four, view te summary of events
+    Step five, view te summary of events
 ![Imagem relacionada a listagem do sumário de eventos](img/4.png)
 
 ## Built With
@@ -123,8 +130,8 @@ What things you need to install the software?
 * [Apache](https://www.apache.org/) - Dependency Management
 
 ## Versioning
- 
-For the versions available, see the [My repository](https://github.com/RodrigoBLima). 
+
+For the versions available, see the [My repository](https://github.com/RodrigoBLima).
 
 
 ## Author
@@ -134,5 +141,3 @@ For the versions available, see the [My repository](https://github.com/RodrigoBL
 ## License
 
 This project does not have any type of license for use.
-
-
