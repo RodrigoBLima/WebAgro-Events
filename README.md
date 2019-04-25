@@ -105,8 +105,8 @@ What things you need to install the software?
 ## Login in Index.php
 
 
-    * Email : * adminwebagro2019
-    * Password : * webagrotech@gmail.com"    
+    Email :  adminwebagro2019
+    Password :  webagrotech@gmail.com"    
 
 
 ## Running the tests
