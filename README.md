@@ -107,11 +107,10 @@ What things you need to install the software?
 
     Step One, login in the plataform
 
-    ```
-    Email : adminwebagro2019
-    Password : webagrotech@gmail.com"
+    * Email : adminwebagro2019
+    * Password : webagrotech@gmail.com"
 
-    ```
+
 
 
     Step two, create a new event
