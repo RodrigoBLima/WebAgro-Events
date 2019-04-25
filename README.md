@@ -102,15 +102,14 @@ What things you need to install the software?
 
 ```
 
+## Login in Index.php
+
+
+    * Email : * adminwebagro2019
+    * Password : * webagrotech@gmail.com"    
+
 
 ## Running the tests
-
-    Step One, login in the plataform
-
-    * Email : adminwebagro2019
-    * Password : webagrotech@gmail.com"    
-
-
 
 
     Step two, create a new event
