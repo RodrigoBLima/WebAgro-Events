@@ -112,6 +112,7 @@ What things you need to install the software?
 
     ```
 
+
     Step two, create a new event
 ![Imagem relacionada com a criação de um evento](img/1.png)
 
