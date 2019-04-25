@@ -5,7 +5,7 @@ session_start();
 //fazendo requisicao do banco de dados
 @require_once 'conexaobanco.php';
 
-// adicionando conexao a variavel com os dados do banco 
+// adicionando conexao a variavel com os dados do banco
 $conn = mysqli_connect($servername, $username, $password, $database);
 
 
@@ -20,15 +20,15 @@ $query = "INSERT INTO `eventos` (`cidade`, `estado`, `dataa`) VALUES ('$cidade',
 //se deu tudo certo? exibir uma mensagem de ok
 
 if (mysqli_query($conn, $query)) {
-    
-    header('Location: ../index.php');
+
+    header('Location: ../formulario.php');
     $_SESSION['mensagem'] = "Evento criado com sucesso";
 
 } else {
   //se não deu certo exibir mensagem de erro
     echo  "<script>alert('Erro!);</script>". $query . "<br>" . mysqli_error($conn);
     //header('Location: ../index.php');
-   
+
 }
 
 
